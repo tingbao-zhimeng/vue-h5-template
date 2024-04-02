@@ -57,6 +57,11 @@ vant 和 varlet 只需删除对应的 resolvers 即可
 
 删除后需全局搜索删除不需要的组件，避免报错
 
+
+## 问题:
+yarn add vite-plugin-style-import -D
+yarn add unplugin-vue-components/vite -D   // 这个安装命令后面的 /vite 是什么意义，有什么作用，当我安装yarn add vite-plugin-style-import -D的时候报错，但是没有/vite 就可以运行成功
+
 ## 参考文档
 
 - [nutUI](https://nutui.jd.com/#/zh-CN/component/button)
